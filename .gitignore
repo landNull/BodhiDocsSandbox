@@ -1,6 +1,7 @@
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
 .obsidian/
 Toolbox
+Bodhi Linux Documentation/+ Bodhi Linux Documentation.md
 
 # to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 .obsidian/plugins
