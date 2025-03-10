@@ -24,5 +24,4 @@ References:
 [User Centric Documentation](https://medium.com/softserve-technical-communication/user-centric-documentation-creating-engaging-and-accessible-content-7212ce9913b3)
 [diataxis](https://youtu.be/t4vKPhjcMZg?si=S_pdd1aRo77GkESB)
 
-The best thing about this is that I will be able to use voice to text on the phone to quickly write all of my documentation and get it out the door much faster.
 
