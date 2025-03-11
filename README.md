@@ -10,7 +10,7 @@ summary:
 ### Bodhi Linux Collaborative Documentation Project Page.
 
 #### Before contributing to the documentation
-Read the [[Bodhi Documentation Style Guide]]
+Read the [[BodhiDocumentationStyleGuide]]
 
 ### What Is Bodhi Linux?
 Bodhi Linux is a lightweight distribution featuring the fast and fully customizable Moksha Desktop. 
