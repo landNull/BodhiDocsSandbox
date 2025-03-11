@@ -6,8 +6,8 @@ status:
 tags: 
 summary:
 ---
-# Bohdi Documentation Project
-### Bodhi Linux Collaborative Documentation Project Page.
+# BohdiDocsSandbox
+### Bodhi Linux Collaborative Documentation Sandbox.
 
 #### Before contributing to the documentation
 Read the [[BodhiDocumentationStyleGuide]]

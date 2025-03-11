@@ -1,9 +1,10 @@
 ---
-parent: "[[Default Desktop Setup]]"
+parent: []
 child: 
 related: 
-status: Completed
-tags: 
+status: In-progress
+tags:
+  - DocsStyleGuide
 summary:
 ---
 # Bodhi User Documentation Style Guide
