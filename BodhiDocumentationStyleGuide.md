@@ -26,6 +26,7 @@ Since the user documentation writing style is based on describing exactly what a
 1. Reduce learning stress
 2. Reinforce learning via eye hand connectivity
 3. Screen reader compatibility
+4. Easier to contribute to
 
 References: 
 [User Centric Documentation](https://medium.com/softserve-technical-communication/user-centric-documentation-creating-engaging-and-accessible-content-7212ce9913b3)
