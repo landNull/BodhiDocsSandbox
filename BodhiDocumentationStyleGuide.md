@@ -24,7 +24,7 @@ Each level of documentation takes them deeper into the underpinnings of configur
 #### Writing Style Based On Digital Accessibility
 Since the user documentation writing style is based on describing exactly what a user is seeing. We are able to accomplishes several usability objectives organically. 
 1. Reduce learning stress
-2. Reinforce learning via rye hand connectivity
+2. Reinforce learning via eye hand connectivity
 3. Screen reader compatibility
 
 References: 
@@ -35,7 +35,7 @@ The four documentation styles.
 2. [How To Guides](https://diataxis.fr/how-to-guides/#how-to)
 3. [Explaination](https://diataxis.fr/explanation/#explanation)
 4. [Reference](https://diataxis.fr/reference/#reference)
-[[AdditionalResources]]
+[[AdditionalResourcesAndReferences]]
 
 
 
