@@ -17,11 +17,11 @@ The user documentation is informed by, and outlined based on what a new Bodhi Li
 
 This simplifies the documentation outline process and organically provides the docs team with a clear direction. It also makes the documentation process much less stressful and easier to contribute to.
 
-Beyond the initial boot the documentation is then layered based on level of interest. This enables the user to get the quick answers they need without being forced to sift through too many details. 
+Beyond the initial boot the documentation is then layered based on level of interest, and immediate need. This enables the user to get the quick answers they need without being forced to sift through too many details. 
 
 The more they use the Moksha desktop the more curious they will become on how to shape the desktop to meet their needs. 
 
-Each level of documentation takes them deeper into the underpinnings of configuring Moksha. 
+Each level of documentation takes them deeper into the underpinnings of configuring Bodhi Linux & Moksha. 
 #### Writing Style Based On Digital Accessibility
 Since the user documentation writing style is based on describing exactly what a user is seeing. We are able to accomplishes several usability objectives organically. 
 1. Reduce learning stress
