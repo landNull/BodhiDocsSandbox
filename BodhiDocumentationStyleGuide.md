@@ -13,7 +13,7 @@ The User documentation is comprised of short easy to read articles. Each article
 The links provide easy access to deeper levels of related documentation and tools.
 The documentation and tools can provide one or more in depth [explanations](https://diataxis.fr/explanation/#explanation), [tutorials](https://diataxis.fr/tutorials/#tutorials), [how-to guides](https://diataxis.fr/how-to-guides/#how-to), and [references](https://diataxis.fr/reference/#reference).
 #### Outlined Based On User Experience(UX)
-The user documentation is informed by, and outlined based on what a new Bodhi Linux user will experience from the first time they boot into Moksha. 
+The user documentation is informed by, and outlined based on what a new Bodhi Linux user will experience from the first time they boot Bodhi Linux into Moksha. 
 
 This simplifies the documentation outline process and organically provides the docs team with a clear direction. It also makes the documentation process much less stressful and easier to contribute to.
 
