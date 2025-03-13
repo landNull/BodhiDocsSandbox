@@ -1,14 +1,14 @@
 ---
-parent: "[[Default Desktop Setup]]"
+parent: "[[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Default Desktop Setup]]"
 child: 
 related: 
 status: In-progress
 tags: 
-summary:
+summary: 
 ---
 # Default Shelf
 
-On the bottom of the desktop there is a bar with a bunch of icons on it. In Bodhi this is called a [[Default Shelf]]. Learn more about [[Shelves]].
+On the bottom of the desktop there is a bar with a bunch of icons on it. In Bodhi this is called a [[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Default Shelf]]. Learn more about [[Shelves]].
 
 The first icon on the left is the system menu. When you click on it a menu will pop-up allowing you to easily navigate and access everything on your entire computer. Learn more about the [[System Menu]].
 

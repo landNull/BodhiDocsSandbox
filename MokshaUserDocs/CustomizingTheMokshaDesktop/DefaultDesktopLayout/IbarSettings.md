@@ -1,0 +1,4 @@
+---
+title: "IbarSettings"
+---
+# ibar Settings

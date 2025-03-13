@@ -1,0 +1,7 @@
+---
+
+title: "Untitled"
+
+---
+# Default Applications
+

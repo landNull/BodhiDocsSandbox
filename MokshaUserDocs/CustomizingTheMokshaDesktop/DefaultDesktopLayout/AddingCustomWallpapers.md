@@ -1,10 +1,10 @@
 ---
-parent: "[[Default Desktop Setup]]"
+parent: "[[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Default Desktop Setup]]"
 child: 
 related: 
 status: Completed
 tags: 
-summary:
+summary: 
 ---
 # Adding Custom Wallpapers
 So you've decided it's time to take your Bodhi experience to the next level and customize your desktops with a brand new Wallpaper. Gotcha, we can do that, and here's how.

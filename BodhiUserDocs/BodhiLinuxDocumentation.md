@@ -1,6 +1,6 @@
 ---
 parent: 
-child: "[[Adding Custom Wallpapers]]"
+child: "[[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Adding Custom Wallpapers]]"
 related: 
 status: 
 tags: 
@@ -10,7 +10,7 @@ type:
 ---
 # Bodhi Linux Documentation
 
-[[Adding Custom Wallpapers]]
+[[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Adding Custom Wallpapers]]
 
 > [!IMPORTANT]+ Parent & Child Notes
 > ```breadcrumbs
