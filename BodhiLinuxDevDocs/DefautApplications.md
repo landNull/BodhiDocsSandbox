@@ -1,7 +1,5 @@
 ---
-
-title: "Untitled"
-
+title: DefaultApplications
 ---
 # Default Applications
 
