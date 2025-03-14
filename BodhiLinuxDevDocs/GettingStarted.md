@@ -1,4 +1,4 @@
 ---
-title: "Gettingstarted"
+title: GettingStarted
 ---
-# Gettingstarted
+# Getting Started

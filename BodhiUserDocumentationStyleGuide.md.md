@@ -1,11 +1,5 @@
 ---
-parent: []
-child: 
-related: 
-status: In-progress
-tags:
-  - DocsStyleGuide
-summary:
+title: "BodhiUserDocumentationStyleGuide"
 ---
 # Bodhi User Documentation Style Guide
 
@@ -37,7 +31,7 @@ The four documentation styles.
 2. [How To Guides](https://diataxis.fr/how-to-guides/#how-to)
 3. [Explaination](https://diataxis.fr/explanation/#explanation)
 4. [Reference](https://diataxis.fr/reference/#reference)
-[AdditionalResourcesAndReferences](AdditionalResourcesAndReferences.md)
+[AdditionalResourcesAndReference.md](AdditionalResourcesAndReference.md.md)
 
 
 

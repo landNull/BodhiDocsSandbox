@@ -1,13 +1,7 @@
 ---
-parent: "[[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Default Desktop Setup]]"
-child: 
-related: 
-status: In-progress
-tags: 
-summary: 
+title: "DefaultShelf"
 ---
 # Default Shelf
-
 On the bottom of the desktop there is a bar with a bunch of icons on it. In Bodhi this is called a [[MokshaUserDocs/CustomizingTheMokshaDesktop/DefaultDesktopLayout/Default Shelf]]. Learn more about [[Shelves]].
 
 The first icon on the left is the system menu. When you click on it a menu will pop-up allowing you to easily navigate and access everything on your entire computer. Learn more about the [[System Menu]].
@@ -25,7 +19,3 @@ Next you will see a [[Power Management]] icon. Clicking on it will provide a pop
 Next you will see an [[Audio Mixer]] icon. Clicking on it will provide a pop-up displaying the current status of your computers audio configuration, along with volume controls, and a audio configuration button. Learn more about [[Audio Configuration]].
 
 Lastly you will see the [[System Controls]] icon. Clicking on it will provide a quick access pop-up to [[Power Off]], [[Suspend]], [[Lock]], [[Reboot]], [[Hibernate]], and [[Logout]]. Learn more about [[System Controls]].
-
-
-
-
