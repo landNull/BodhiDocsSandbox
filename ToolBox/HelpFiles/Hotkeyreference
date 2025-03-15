@@ -1,0 +1,49 @@
+---
+parent:
+  - "[[+ Obsidian-TOC]]"
+related: 
+status: 
+tags: 
+type:
+  - Note
+created: 2024-12-27
+---
+# Obsidian Hotkeys
+## Most Important Hotkeys
+- 'ctrl + p' open command pallette
+- 'ctrl +o' to open quick switcher
+- 'ctrl + n' create a new default note
+- 'alt + n' create a new note from template
+- 'alt + f' create a new note in folder
+- 'alt + e' insert template
+- 'ctrl + d' open daily note
+- 'ctrl + w' open weekly note
+- 'ctrl + s' search
+- 'ctrl + tab' go to next tab
+- 'ctrl + enter' open link under cursor in new tab
+- 'ctrl + alt +enter' open link under cursor to the right
+- 'shift + right arrow' split right
+- 'shift + down arrow' split down
+- 'ctrl + m' move to folder
+- 'ctrl + r'  rename file
+- 'ctrl + h' file and replace in current file
+- 'ctrl + ;' add file properties
+- 'ctrl + shift + i' open console (error log)
+- 'alt + p' show properties view
+## Quick Add
+- 'alt + t' add to task list
+- 'alt + q' add to quick note
+- 'alt + h' add to What's Happening
+- 'alt + m' add to meeting agenda
+## Formatting
+- 'alt + c' to add a callout
+- 'alt + s' superscript
+- 'ctrl + b' bold
+- 'ctrl + i' italic
+## Move
+- 'alt + 1' to move a line of text up.
+- 'alt + 2' to move a line of text down.
+- 'tab' to indent text.
+- 'shift + tab' to outdent.
+- 'alt + f' to fold text.
+- 'alt + b' bullet/checkbox
