@@ -1,4 +1,0 @@
----
-title: "Hotkeyreference"
----
-# HotKeyReference

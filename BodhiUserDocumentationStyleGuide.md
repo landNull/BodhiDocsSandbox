@@ -31,7 +31,7 @@ The four documentation styles.
 2. [How To Guides](https://diataxis.fr/how-to-guides/#how-to)
 3. [Explaination](https://diataxis.fr/explanation/#explanation)
 4. [Reference](https://diataxis.fr/reference/#reference)
-[AdditionalResourcesAndReference.md](AdditionalResourcesAndReference.md.md)
+[AdditionalResourcesAndReference](AdditionalResourcesAndReference.md)
 
 
 
